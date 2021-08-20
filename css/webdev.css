@@ -1,0 +1,28 @@
+body {
+    /* background-color:burlywood; */
+}
+
+.nav {
+    color:cornsilk;
+    background-color: deepskyblue;
+}
+
+#topper {
+    color: #fff;
+    background-color: dodgerblue;
+}
+
+.sidebar {
+    background-color: rgb(223, 246, 255);
+    border-right:dodgerblue solid 1px;
+    height: 500px;
+}
+
+footer {
+    color:rgb(255, 255, 255);
+    background-color: slateblue;
+}
+
+
+
+
